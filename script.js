@@ -75,10 +75,10 @@ let slideIndex = 0;
 const slides = document.querySelector(".home");
 
 const images = [
-  "images/pro5.jpg", 
-  "images/pro6.jpg",
-  "images/pro11.jpg",
-  "images/pro13.jpg"
+  "./images/pro5.jpg", 
+  "./images/pro6.jpg",
+  "./images/pro11.jpg",
+  "./images/pro13.jpg"
 ];
 
 showSlides();
